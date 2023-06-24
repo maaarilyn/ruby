@@ -8,8 +8,8 @@ while i <= input do
   puts "#{i}回目の計算"
   puts "2つの値を入力してください"
 
-　x = gets.to_i
-  y = gets.to_i
+　a = gets.to_i
+  b = gets.to_i
 
   puts "a=#{a}"
   puts "b=#{b}"
